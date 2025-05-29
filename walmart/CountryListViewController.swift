@@ -36,6 +36,7 @@ class CountryListViewController: UITableViewController, UISearchBarDelegate {
         searchController.searchResultsUpdater = self
         searchController.obscuresBackgroundDuringPresentation = false
         searchController.searchBar.placeholder = "Search Countries"
+        searchController.searchBar.delegate = self
         
         searchController.searchBar.searchTextField.backgroundColor = .systemGray6
         searchController.searchBar.searchTextField.textColor = .label
@@ -75,7 +76,9 @@ class CountryListViewController: UITableViewController, UISearchBarDelegate {
 
     private func showErrorAlert(message: String) {
         let alert = UIAlertController(title: "Error", message: message, preferredStyle: .alert)
-        alert.addAction(UIAlertAction(title: "OK", style: .default))
+        alert.addAction(UIAlertAction(title: "OK", style: .default) { [weak self] _ in
+            self?.viewModel.filter(query: nil)
+        })
         present(alert, animated: true)
     }
 
@@ -135,6 +138,14 @@ extension CountryListViewController {
 
 extension CountryListViewController: UISearchResultsUpdating {
     func updateSearchResults(for searchController: UISearchController) {
+        showEmptyState(message: "Searching...")
         viewModel.filter(query: searchController.searchBar.text)
+    }
+}
+
+extension CountryListViewController {
+    func searchBarCancelButtonClicked(_ searchBar: UISearchBar) {
+        showEmptyState(message: "Loading...")
+        viewModel.filter(query: nil)
     }
 }

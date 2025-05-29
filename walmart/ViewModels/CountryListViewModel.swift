@@ -135,6 +135,7 @@ final class CountryListViewModel {
             DispatchQueue.main.async {
                 self.onError?("No results found for \"\(query)\"")
             }
+            return
         }
 
         allCountries = filtered
