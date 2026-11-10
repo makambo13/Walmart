@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+*.xcresult
+*.xcarchive
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local tooling and captures
+*.bundle
+screenshots-raw/
+
+captures/

@@ -1,0 +1,886 @@
+[
+ {
+  "capital": "Kabul",
+  "code": "AF",
+  "currency": {
+   "code": "AFN",
+   "name": "Afghan afghani",
+   "symbol": "؋"
+  },
+  "flag": "https://restcountries.eu/data/afg.svg",
+  "language": {
+   "code": "ps",
+   "name": "Pashto"
+  },
+  "name": "Afghanistan",
+  "region": "AS"
+ },
+ {
+  "capital": "Andorra la Vella",
+  "code": "AD",
+  "currency": {
+   "code": "EUR",
+   "name": "Euro",
+   "symbol": "€"
+  },
+  "flag": "https://restcountries.eu/data/and.svg",
+  "language": {
+   "code": "ca",
+   "name": "Catalan"
+  },
+  "name": "Andorra",
+  "region": "EU"
+ },
+ {
+  "capital": "Yerevan",
+  "code": "AM",
+  "currency": {
+   "code": "AMD",
+   "name": "Armenian dram",
+   "symbol": null
+  },
+  "flag": "https://restcountries.eu/data/arm.svg",
+  "language": {
+   "code": "hy",
+   "name": "Armenian"
+  },
+  "name": "Armenia",
+  "region": "AS"
+ },
+ {
+  "capital": "Nassau",
+  "code": "BS",
+  "currency": {
+   "code": "BSD",
+   "name": "Bahamian dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/bhs.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Bahamas",
+  "region": "NA"
+ },
+ {
+  "capital": "Brussels",
+  "code": "BE",
+  "currency": {
+   "code": "EUR",
+   "name": "Euro",
+   "symbol": "€"
+  },
+  "flag": "https://restcountries.eu/data/bel.svg",
+  "language": {
+   "code": "nl",
+   "name": "Dutch"
+  },
+  "name": "Belgium",
+  "region": "EU"
+ },
+ {
+  "capital": "Sucre",
+  "code": "BO",
+  "currency": {
+   "code": "BOB",
+   "name": "Bolivian boliviano",
+   "symbol": "Bs."
+  },
+  "flag": "https://restcountries.eu/data/bol.svg",
+  "language": {
+   "code": "es",
+   "name": "Spanish"
+  },
+  "name": "Bolivia (Plurinational State of)",
+  "region": "SA"
+ },
+ {
+  "capital": "Brasília",
+  "code": "BR",
+  "currency": {
+   "code": "BRL",
+   "name": "Brazilian real",
+   "symbol": "R$"
+  },
+  "flag": "https://restcountries.eu/data/bra.svg",
+  "language": {
+   "code": "pt",
+   "name": "Portuguese"
+  },
+  "name": "Brazil",
+  "region": "SA"
+ },
+ {
+  "capital": "Bandar Seri Begawan",
+  "code": "BN",
+  "currency": {
+   "code": "BND",
+   "name": "Brunei dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/brn.svg",
+  "language": {
+   "code": "ms",
+   "name": "Malay"
+  },
+  "name": "Brunei Darussalam",
+  "region": "AS"
+ },
+ {
+  "capital": "Yaoundé",
+  "code": "CM",
+  "currency": {
+   "code": "XAF",
+   "name": "Central African CFA franc",
+   "symbol": "Fr"
+  },
+  "flag": "https://restcountries.eu/data/cmr.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Cameroon",
+  "region": "AF"
+ },
+ {
+  "capital": "Ottawa",
+  "code": "CA",
+  "currency": {
+   "code": "CAD",
+   "name": "Canadian dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/can.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Canada",
+  "region": "NA"
+ },
+ {
+  "capital": "N'Djamena",
+  "code": "TD",
+  "currency": {
+   "code": "XAF",
+   "name": "Central African CFA franc",
+   "symbol": "Fr"
+  },
+  "flag": "https://restcountries.eu/data/tcd.svg",
+  "language": {
+   "code": "fr",
+   "name": "French"
+  },
+  "name": "Chad",
+  "region": "AF"
+ },
+ {
+  "capital": "Bogotá",
+  "code": "CO",
+  "currency": {
+   "code": "COP",
+   "name": "Colombian peso",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/col.svg",
+  "language": {
+   "code": "es",
+   "name": "Spanish"
+  },
+  "name": "Colombia",
+  "region": "SA"
+ },
+ {
+  "capital": "San José",
+  "code": "CR",
+  "currency": {
+   "code": "CRC",
+   "name": "Costa Rican colón",
+   "symbol": "₡"
+  },
+  "flag": "https://restcountries.eu/data/cri.svg",
+  "language": {
+   "code": "es",
+   "name": "Spanish"
+  },
+  "name": "Costa Rica",
+  "region": "NA"
+ },
+ {
+  "capital": "Prague",
+  "code": "CZ",
+  "currency": {
+   "code": "CZK",
+   "name": "Czech koruna",
+   "symbol": "Kč"
+  },
+  "flag": "https://restcountries.eu/data/cze.svg",
+  "language": {
+   "code": "cs",
+   "name": "Czech"
+  },
+  "name": "Czech Republic",
+  "region": "EU"
+ },
+ {
+  "capital": "Yamoussoukro",
+  "code": "CI",
+  "currency": {
+   "code": "XOF",
+   "name": "West African CFA franc",
+   "symbol": "Fr"
+  },
+  "flag": "https://restcountries.eu/data/civ.svg",
+  "language": {
+   "code": "fr",
+   "name": "French"
+  },
+  "name": "Côte d'Ivoire",
+  "region": "AF"
+ },
+ {
+  "capital": "Quito",
+  "code": "EC",
+  "currency": {
+   "code": "USD",
+   "name": "United States dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/ecu.svg",
+  "language": {
+   "code": "es",
+   "name": "Spanish"
+  },
+  "name": "Ecuador",
+  "region": "SA"
+ },
+ {
+  "capital": "Tallinn",
+  "code": "EE",
+  "currency": {
+   "code": "EUR",
+   "name": "Euro",
+   "symbol": "€"
+  },
+  "flag": "https://restcountries.eu/data/est.svg",
+  "language": {
+   "code": "et",
+   "name": "Estonian"
+  },
+  "name": "Estonia",
+  "region": "EU"
+ },
+ {
+  "capital": "Helsinki",
+  "code": "FI",
+  "currency": {
+   "code": "EUR",
+   "name": "Euro",
+   "symbol": "€"
+  },
+  "flag": "https://restcountries.eu/data/fin.svg",
+  "language": {
+   "code": "fi",
+   "iso639_2": "fin",
+   "name": "Finnish",
+   "nativeName": "suomi"
+  },
+  "name": "Finland",
+  "region": "EU"
+ },
+ {
+  "capital": "Libreville",
+  "code": "GA",
+  "currency": {
+   "code": "XAF",
+   "name": "Central African CFA franc",
+   "symbol": "Fr"
+  },
+  "flag": "https://restcountries.eu/data/gab.svg",
+  "language": {
+   "code": "fr",
+   "name": "French"
+  },
+  "name": "Gabon",
+  "region": "AF"
+ },
+ {
+  "capital": "Berlin",
+  "code": "DE",
+  "currency": {
+   "code": "EUR",
+   "name": "Euro",
+   "symbol": "€"
+  },
+  "flag": "https://restcountries.eu/data/deu.svg",
+  "language": {
+   "code": "de",
+   "name": "German"
+  },
+  "name": "Germany",
+  "region": "EU"
+ },
+ {
+  "capital": "Gibraltar",
+  "code": "GI",
+  "currency": {
+   "code": "GIP",
+   "name": "Gibraltar pound",
+   "symbol": "£"
+  },
+  "flag": "https://restcountries.eu/data/gib.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Gibraltar",
+  "region": "EU"
+ },
+ {
+  "capital": "Hagåtña",
+  "code": "GU",
+  "currency": {
+   "code": "USD",
+   "name": "United States dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/gum.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Guam",
+  "region": "OC"
+ },
+ {
+  "capital": "Georgetown",
+  "code": "GY",
+  "currency": {
+   "code": "GYD",
+   "name": "Guyanese dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/guy.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Guyana",
+  "region": "SA"
+ },
+ {
+  "capital": "City of Victoria",
+  "code": "HK",
+  "currency": {
+   "code": "HKD",
+   "name": "Hong Kong dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/hkg.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Hong Kong",
+  "region": "AS"
+ },
+ {
+  "capital": "Jerusalem",
+  "code": "IL",
+  "currency": {
+   "code": "ILS",
+   "name": "Israeli new shekel",
+   "symbol": "₪"
+  },
+  "flag": "https://restcountries.eu/data/isr.svg",
+  "language": {
+   "code": "he",
+   "name": "Hebrew (modern)"
+  },
+  "name": "Israel",
+  "region": "AS"
+ },
+ {
+  "capital": "Tokyo",
+  "code": "JP",
+  "currency": {
+   "code": "JPY",
+   "name": "Japanese yen",
+   "symbol": "¥"
+  },
+  "flag": "https://restcountries.eu/data/jpn.svg",
+  "language": {
+   "code": "ja",
+   "name": "Japanese"
+  },
+  "name": "Japan",
+  "region": "AS"
+ },
+ {
+  "capital": "Amman",
+  "code": "JO",
+  "currency": {
+   "code": "JOD",
+   "name": "Jordanian dinar",
+   "symbol": "د.ا"
+  },
+  "flag": "https://restcountries.eu/data/jor.svg",
+  "language": {
+   "code": "ar",
+   "name": "Arabic"
+  },
+  "name": "Jordan",
+  "region": "AS"
+ },
+ {
+  "capital": "Nairobi",
+  "code": "KE",
+  "currency": {
+   "code": "KES",
+   "name": "Kenyan shilling",
+   "symbol": "Sh"
+  },
+  "flag": "https://restcountries.eu/data/ken.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Kenya",
+  "region": "AF"
+ },
+ {
+  "capital": "Bishkek",
+  "code": "KG",
+  "currency": {
+   "code": "KGS",
+   "name": "Kyrgyzstani som",
+   "symbol": "с"
+  },
+  "flag": "https://restcountries.eu/data/kgz.svg",
+  "language": {
+   "code": "ky",
+   "name": "Kyrgyz"
+  },
+  "name": "Kyrgyzstan",
+  "region": "AS"
+ },
+ {
+  "capital": "Monrovia",
+  "code": "LR",
+  "currency": {
+   "code": "LRD",
+   "name": "Liberian dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/lbr.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Liberia",
+  "region": "AF"
+ },
+ {
+  "capital": "",
+  "code": "MO",
+  "currency": {
+   "code": "MOP",
+   "name": "Macanese pataca",
+   "symbol": "P"
+  },
+  "flag": "https://restcountries.eu/data/mac.svg",
+  "language": {
+   "code": "zh",
+   "name": "Chinese"
+  },
+  "name": "Macao",
+  "region": "AS"
+ },
+ {
+  "capital": "Malé",
+  "code": "MV",
+  "currency": {
+   "code": "MVR",
+   "name": "Maldivian rufiyaa",
+   "symbol": ".ރ"
+  },
+  "flag": "https://restcountries.eu/data/mdv.svg",
+  "language": {
+   "code": "dv",
+   "name": "Divehi"
+  },
+  "name": "Maldives",
+  "region": "AS"
+ },
+ {
+  "capital": "Nouakchott",
+  "code": "MR",
+  "currency": {
+   "code": "MRO",
+   "name": "Mauritanian ouguiya",
+   "symbol": "UM"
+  },
+  "flag": "https://restcountries.eu/data/mrt.svg",
+  "language": {
+   "code": "ar",
+   "name": "Arabic"
+  },
+  "name": "Mauritania",
+  "region": "AF"
+ },
+ {
+  "capital": "Chișinău",
+  "code": "MD",
+  "currency": {
+   "code": "MDL",
+   "name": "Moldovan leu",
+   "symbol": "L"
+  },
+  "flag": "https://restcountries.eu/data/mda.svg",
+  "language": {
+   "code": "ro",
+   "name": "Romanian"
+  },
+  "name": "Moldova (Republic of)",
+  "region": "EU"
+ },
+ {
+  "capital": "Rabat",
+  "code": "MA",
+  "currency": {
+   "code": "MAD",
+   "name": "Moroccan dirham",
+   "symbol": "د.م."
+  },
+  "flag": "https://restcountries.eu/data/mar.svg",
+  "language": {
+   "code": "ar",
+   "name": "Arabic"
+  },
+  "name": "Morocco",
+  "region": "AF"
+ },
+ {
+  "capital": "Kathmandu",
+  "code": "NP",
+  "currency": {
+   "code": "NPR",
+   "name": "Nepalese rupee",
+   "symbol": "₨"
+  },
+  "flag": "https://restcountries.eu/data/npl.svg",
+  "language": {
+   "code": "ne",
+   "name": "Nepali"
+  },
+  "name": "Nepal",
+  "region": "AS"
+ },
+ {
+  "capital": "Niamey",
+  "code": "NE",
+  "currency": {
+   "code": "XOF",
+   "name": "West African CFA franc",
+   "symbol": "Fr"
+  },
+  "flag": "https://restcountries.eu/data/ner.svg",
+  "language": {
+   "code": "fr",
+   "name": "French"
+  },
+  "name": "Niger",
+  "region": "AF"
+ },
+ {
+  "capital": "Saipan",
+  "code": "MP",
+  "currency": {
+   "code": "USD",
+   "name": "United States dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/mnp.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Northern Mariana Islands",
+  "region": "OC"
+ },
+ {
+  "capital": "Ramallah",
+  "code": "PS",
+  "currency": {
+   "code": "ILS",
+   "name": "Israeli new sheqel",
+   "symbol": "₪"
+  },
+  "flag": "https://restcountries.eu/data/pse.svg",
+  "language": {
+   "code": "ar",
+   "name": "Arabic"
+  },
+  "name": "Palestine, State of",
+  "region": "AS"
+ },
+ {
+  "capital": "Manila",
+  "code": "PH",
+  "currency": {
+   "code": "PHP",
+   "name": "Philippine peso",
+   "symbol": "₱"
+  },
+  "flag": "https://restcountries.eu/data/phl.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Philippines",
+  "region": "AS"
+ },
+ {
+  "capital": "Doha",
+  "code": "QA",
+  "currency": {
+   "code": "QAR",
+   "name": "Qatari riyal",
+   "symbol": "ر.ق"
+  },
+  "flag": "https://restcountries.eu/data/qat.svg",
+  "language": {
+   "code": "ar",
+   "name": "Arabic"
+  },
+  "name": "Qatar",
+  "region": "AS"
+ },
+ {
+  "capital": "Kigali",
+  "code": "RW",
+  "currency": {
+   "code": "RWF",
+   "name": "Rwandan franc",
+   "symbol": "Fr"
+  },
+  "flag": "https://restcountries.eu/data/rwa.svg",
+  "language": {
+   "code": "rw",
+   "name": "Kinyarwanda"
+  },
+  "name": "Rwanda",
+  "region": "AF"
+ },
+ {
+  "capital": "Marigot",
+  "code": "MF",
+  "currency": {
+   "code": "EUR",
+   "name": "Euro",
+   "symbol": "€"
+  },
+  "flag": "https://restcountries.eu/data/maf.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Saint Martin (French part)",
+  "region": "NA"
+ },
+ {
+  "capital": "São Tomé",
+  "code": "ST",
+  "currency": {
+   "code": "STD",
+   "name": "São Tomé and Príncipe dobra",
+   "symbol": "Db"
+  },
+  "flag": "https://restcountries.eu/data/stp.svg",
+  "language": {
+   "code": "pt",
+   "name": "Portuguese"
+  },
+  "name": "Sao Tome and Principe",
+  "region": "AF"
+ },
+ {
+  "capital": "Freetown",
+  "code": "SL",
+  "currency": {
+   "code": "SLL",
+   "name": "Sierra Leonean leone",
+   "symbol": "Le"
+  },
+  "flag": "https://restcountries.eu/data/sle.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Sierra Leone",
+  "region": "AF"
+ },
+ {
+  "capital": "Honiara",
+  "code": "SB",
+  "currency": {
+   "code": "SBD",
+   "name": "Solomon Islands dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/slb.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "Solomon Islands",
+  "region": "OC"
+ },
+ {
+  "capital": "Juba",
+  "code": "SS",
+  "currency": {
+   "code": "SSP",
+   "name": "South Sudanese pound",
+   "symbol": "£"
+  },
+  "flag": "https://restcountries.eu/data/ssd.svg",
+  "language": {
+   "code": "en",
+   "name": "English"
+  },
+  "name": "South Sudan",
+  "region": "AF"
+ },
+ {
+  "capital": "Longyearbyen",
+  "code": "SJ",
+  "currency": {
+   "code": "NOK",
+   "name": "Norwegian krone",
+   "symbol": "kr"
+  },
+  "flag": "https://restcountries.eu/data/sjm.svg",
+  "language": {
+   "code": "no",
+   "name": "Norwegian"
+  },
+  "name": "Svalbard and Jan Mayen",
+  "region": "EU"
+ },
+ {
+  "capital": "Taipei",
+  "code": "TW",
+  "currency": {
+   "code": "TWD",
+   "name": "New Taiwan dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/twn.svg",
+  "language": {
+   "code": "zh",
+   "name": "Chinese"
+  },
+  "name": "Taiwan",
+  "region": "AS"
+ },
+ {
+  "capital": "Lomé",
+  "code": "TG",
+  "currency": {
+   "code": "XOF",
+   "name": "West African CFA franc",
+   "symbol": "Fr"
+  },
+  "flag": "https://restcountries.eu/data/tgo.svg",
+  "language": {
+   "code": "fr",
+   "name": "French"
+  },
+  "name": "Togo",
+  "region": "AF"
+ },
+ {
+  "capital": "Ankara",
+  "code": "TR",
+  "currency": {
+   "code": "TRY",
+   "name": "Turkish lira",
+   "symbol": null
+  },
+  "flag": "https://restcountries.eu/data/tur.svg",
+  "language": {
+   "code": "tr",
+   "name": "Turkish"
+  },
+  "name": "Turkey",
+  "region": "AS"
+ },
+ {
+  "capital": "Kiev",
+  "code": "UA",
+  "currency": {
+   "code": "UAH",
+   "name": "Ukrainian hryvnia",
+   "symbol": "₴"
+  },
+  "flag": "https://restcountries.eu/data/ukr.svg",
+  "language": {
+   "code": "uk",
+   "name": "Ukrainian"
+  },
+  "name": "Ukraine",
+  "region": "EU"
+ },
+ {
+  "capital": "Washington, D.C.",
+  "code": "US",
+  "currency": {
+   "code": "USD",
+   "name": "United States dollar",
+   "symbol": "$"
+  },
+  "flag": "https://restcountries.eu/data/usa.svg",
+  "language": {
+   "code": "en",
+   "iso639_2": "eng",
+   "name": "English",
+   "nativeName": "English"
+  },
+  "name": "United States of America",
+  "region": "NA"
+ },
+ {
+  "capital": "Tashkent",
+  "code": "UZ",
+  "currency": {
+   "code": "UZS",
+   "name": "Uzbekistani so'm",
+   "symbol": null
+  },
+  "flag": "https://restcountries.eu/data/uzb.svg",
+  "language": {
+   "code": "uz",
+   "name": "Uzbek"
+  },
+  "name": "Uzbekistan",
+  "region": "AS"
+ },
+ {
+  "capital": "El Aaiún",
+  "code": "EH",
+  "currency": {
+   "code": "MAD",
+   "name": "Moroccan dirham",
+   "symbol": "د.م."
+  },
+  "flag": "https://restcountries.eu/data/esh.svg",
+  "language": {
+   "code": "es",
+   "name": "Spanish"
+  },
+  "name": "Western Sahara",
+  "region": "AF"
+ }
+]
